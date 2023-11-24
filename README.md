@@ -52,13 +52,13 @@
 ![Снимок экрана (441)](https://github.com/S0Fka/-3/assets/126691105/5664a6ae-aac9-4d84-898b-c9c3a615e465)
 
 8.
-![Снимок экрана (442)](https://github.com/S0Fka/-3/assets/126691105/b325fc6f-8723-4249-9548-d92eae9a7620)
+![Снимок экрана (441)](https://github.com/S0Fka/-3/assets/126691105/d0f80f24-543e-401a-ba61-449351d24c4a)
 
 9.
-![Снимок экрана (443)](https://github.com/S0Fka/-3/assets/126691105/2d52cb99-5647-4b22-a90f-d83afe41f990)
+![Снимок экрана (442)](https://github.com/S0Fka/-3/assets/126691105/dfa09e55-1c86-4ea5-ae1b-1176db1fb848)
 
 10.
-![image](https://github.com/S0Fka/-1/assets/126691105/a1f890d3-1f5e-41f5-a792-60aee31b1f10)
+![Снимок экрана (443)](https://github.com/S0Fka/-3/assets/126691105/687bb730-2a96-4842-b5d9-3003bc2a733f)
 
 ## Выводы
 В ходе лабораторной работы я научилась работать балансировать уровни игры.
