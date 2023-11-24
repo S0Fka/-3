@@ -9,7 +9,7 @@
 | ------ | ------ | ------ |
 | Задание 1 | * | 60 |
 | Задание 2 | * | 20 |
-| Задание 3 | * | 20 |
+| Задание 3 | # | 20 |
 
 знак "*" - задание выполнено; знак "#" - задание не выполнено;
 
@@ -31,48 +31,37 @@
 ## Задание 2
 Создать 10 сцен на Unity с изменяющимся уровнем сложности.
 1.
-![image](https://github.com/S0Fka/-1/assets/126691105/a1f890d3-1f5e-41f5-a792-60aee31b1f10)
+![Снимок экрана (436)](https://github.com/S0Fka/-3/assets/126691105/648801e8-a858-4b90-9ab4-6bfa8cc672f4)
+
 2.
-![image](https://github.com/S0Fka/-1/assets/126691105/a1f890d3-1f5e-41f5-a792-60aee31b1f10)
+![Снимок экрана (435)](https://github.com/S0Fka/-3/assets/126691105/bbc4d027-9177-4956-b4f1-60f81b0f9413)
+
 3.
-![image](https://github.com/S0Fka/-1/assets/126691105/a1f890d3-1f5e-41f5-a792-60aee31b1f10)
+![Снимок экрана (437)](https://github.com/S0Fka/-3/assets/126691105/bc83dbe1-df06-494c-848f-ba3e5c5cf64a)
+
 4.
-![image](https://github.com/S0Fka/-1/assets/126691105/a1f890d3-1f5e-41f5-a792-60aee31b1f10)
+![Снимок экрана (438)](https://github.com/S0Fka/-3/assets/126691105/02cb9505-e8e5-48e6-a174-9e04dfd1da68)
+
 5.
-![image](https://github.com/S0Fka/-1/assets/126691105/a1f890d3-1f5e-41f5-a792-60aee31b1f10)
+![Снимок экрана (439)](https://github.com/S0Fka/-3/assets/126691105/ca659341-f358-4353-9d32-16c3e81f6f16)
+
 6.
-![image](https://github.com/S0Fka/-1/assets/126691105/a1f890d3-1f5e-41f5-a792-60aee31b1f10)
+![Снимок экрана (440)](https://github.com/S0Fka/-3/assets/126691105/6f15d1c1-436e-4b71-98ef-d0035db5aab9)
+
 7.
-![image](https://github.com/S0Fka/-1/assets/126691105/a1f890d3-1f5e-41f5-a792-60aee31b1f10)
+![Снимок экрана (441)](https://github.com/S0Fka/-3/assets/126691105/5664a6ae-aac9-4d84-898b-c9c3a615e465)
+
 8.
-![image](https://github.com/S0Fka/-1/assets/126691105/a1f890d3-1f5e-41f5-a792-60aee31b1f10)
+![Снимок экрана (442)](https://github.com/S0Fka/-3/assets/126691105/b325fc6f-8723-4249-9548-d92eae9a7620)
+
 9.
-![image](https://github.com/S0Fka/-1/assets/126691105/a1f890d3-1f5e-41f5-a792-60aee31b1f10)
+![Снимок экрана (443)](https://github.com/S0Fka/-3/assets/126691105/2d52cb99-5647-4b22-a90f-d83afe41f990)
+
 10.
 ![image](https://github.com/S0Fka/-1/assets/126691105/a1f890d3-1f5e-41f5-a792-60aee31b1f10)
-## Задание 3
-- Оформить отчет в виде документации на github (markdown-разметка).
-
-```py
-
-using System;
-namespace HelloWorld
-{
-    class Start 
-    {
-        static void Main() 
-        {
-            Console.WriteLine("Hello, World!");
-        }
-    }
-}
-
-
-```
 
 ## Выводы
-В ходе лабораторной работы я научилась работать с jupyter notebook и Unity, создавать объект и прикреплять к нему файл с рабочим кодом, то есть давать коду работать с объектом.
-
+В ходе лабораторной работы я научилась работать балансировать уровни игры.
 ## Powered by
 
 **BigDigital Team: Denisov | Fadeev | Panov**
